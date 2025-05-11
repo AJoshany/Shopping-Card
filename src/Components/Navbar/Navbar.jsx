@@ -9,7 +9,7 @@ function Navbar() {
     <nav className="navbar navbar-expand-sm py-3 d-flex">
       <div className="container">
         <a href="#" className="navbar-brand">
-          SabzLearn Shop
+          Ali Joshany
         </a>
 
         <ul className="navbar-nav me-auto ms-3">
